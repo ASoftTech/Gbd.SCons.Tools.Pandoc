@@ -1,0 +1,11 @@
+# Ignore tox dirs
+.tox-dev/
+.tox-tests/
+
+# Ignore python virtual environment directory
+py36dev/
+py27dev/
+py36docs/
+
+# wip
+scons/
